@@ -1,7 +1,7 @@
 def find_second_third_highest(numbers):
     unique_numbers = list(set(numbers))
     if len(unique_numbers) < 3:
-        print("Nothhjuiu enough unique numbers in the list.")
+        print("Not enough unique numbers in the list.")
         return
     unique_numbers.sort(reverse=True)
     second_highest = unique_numbers[1]
