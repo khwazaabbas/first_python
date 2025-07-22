@@ -1,0 +1,10 @@
+mystr = ("khwaza", "abbas", "ansari", "tanakpuer", "champawat", "uttarakhand")
+#for x in mystr:
+    #print(x)
+myit = iter(mystr)
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))

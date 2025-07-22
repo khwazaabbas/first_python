@@ -1,0 +1,11 @@
+#x = min(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
+#y = max(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
+#print(x)
+#print(y)
+#a=int(input("enter the 1 number ="))
+#b=int(input("enter the 2 number ="))
+#z = pow(a, b)
+#print(z)
+import math
+x = math.sqrt(625)
+print(round(x,10))

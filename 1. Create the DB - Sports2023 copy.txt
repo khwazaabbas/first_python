@@ -1,0 +1,51 @@
+1. Create the DB - Sports2023 copy of Sports2000 
+
+2. Create the New DB - SalesDB
+
+3. Run the first Program and access the DB to display the customer
+
+4. def var a as CHARACTER EXTENT 3 INITIAL ["Progress", "Oracle", "Sybase"].
+
+5. Define 
+
+Using REPEAT:
+The REPEAT block is a generic looping construct that can be used
+for various purposes, including database queries. Here's an example:
+
+6. Display first 10 records using the Repeat block. Also handle the case for customer availablity accordingly.
+7. Using the For each loop - retrieves all the customer records and then displays the names and cities of customers from California state.
+10. Display the table of 5 using the Do Block.
+
+
+11. Include file exercise for simple addition program , but all variable should be in inlude file.
+
+12. Persistent Procedure with Calculator
+Program-1.p :
+	- Function Addition
+	- Function Substraction
+	- IP : Multiplication
+	- IP : Devision
+	
+Program-2.p:
+	- Call persistently Program-1.p 
+	- Access only one function and one IP 
+
+13. Temp-Table exercise
+- Create the Temp-table Cutsomer And Temp-table Order
+- take the data from respective tables
+- display both table - first 10 records with separate frame.
+
+14. Temp-Table exercise
+- Create the Temp-table Cutsomer And Temp-table Order
+- take the data from respective tables
+- display both table - first 10 records with separate frame.
+
+15. Temp-Table exercise
+- Create the Temp-table Cutsomer And Temp-table Order
+- take the data from respective tables
+- display both table - first 10 records with separate frame.
+
+16. Temp-Table exercise
+- Create the Temp-table Cutsomer And Temp-table Order
+- take the data from respective tables
+- display both table - first 10 records with separate frame.

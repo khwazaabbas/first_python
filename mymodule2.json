@@ -1,0 +1,10 @@
+ {
+    
+    "name" : "mani",
+    "sallery" : 100000000000000000000,
+    "city" : "tanakpur",
+    "is_manager" : False,
+    "is_ceo" : True,
+    "age" : None
+
+}
